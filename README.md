@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Abderrahmane Boukhezar</h1>
 <h3 align="center">BackEnd Developer / Problem Solver / Comptitive Programmer</h3>
 
-- 👨‍💻 All of my projects are available at [boukhezar.com](boukhezar.com)
+-  All of my projects are available at [boukhezar.com](boukhezar.com)
 
 - 💬 Ask me about **Php, laravel ,javaScript**
 
